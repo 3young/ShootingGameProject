@@ -1,0 +1,66 @@
+[+] Containers:
+ |- [+] Container: /Game/ShootingGame/Maps/Untitled
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:774C00464A594D7EC15690AD1C312457 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_9C6B00814141624402_1580257553 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=72.000), Max=(X=240.000 Y=128.000 Z=328.000) RuntimeBounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=108.000), Max=(X=40.000 Y=40.000 Z=292.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:78D15A724351369CD26EA498BC26A270 BaseClass:/Game/ShootingGame/Blueprints/Frameworks/BP_Background.BP_Background_C NativeClass:/Script/Engine.Actor Name:BP_Background_C_UAID_9C6B008141416C4402_1264245316 Label:BP_Background SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-14445.247 Y=-14390.621 Z=-23022.090), Max=(X=14612.271 Y=13711.898 Z=17958.089) RuntimeBounds:IsValid=true, Min=(X=-14445.247 Y=-14390.621 Z=-23022.090), Max=(X=14612.271 Y=13711.898 Z=17958.089) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:832C22764419701BB5321DA57850ACA0 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:B50853F14E7B4788EC86098F8AD48E2F BaseClass:/Game/ShootingGame/Blueprints/BP_MainCamera.BP_MainCamera_C NativeClass:/Script/Engine.Actor Name:BP_MainCamera_C_UAID_9C6B008141416C4402_1270276317 Label:BP_MainCamera SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=500.000 Y=-1000.000 Z=0.000), Max=(X=2500.000 Y=1000.000 Z=6000.000) RuntimeBounds:IsValid=true, Min=(X=1500.000 Y=0.000 Z=0.000), Max=(X=1500.000 Y=0.000 Z=5000.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:BE48EE7C4A7CB787CE97D6ABBD3EF220 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_9C6B00814141614402_1821378375 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:774C00464A594D7EC15690AD1C312457 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_9C6B00814141624402_1580257553 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=72.000), Max=(X=240.000 Y=128.000 Z=328.000) RuntimeBounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=108.000), Max=(X=40.000 Y=40.000 Z=292.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:78D15A724351369CD26EA498BC26A270 BaseClass:/Game/ShootingGame/Blueprints/Frameworks/BP_Background.BP_Background_C NativeClass:/Script/Engine.Actor Name:BP_Background_C_UAID_9C6B008141416C4402_1264245316 Label:BP_Background SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-14445.247 Y=-14390.621 Z=-23022.090), Max=(X=14612.271 Y=13711.898 Z=17958.089) RuntimeBounds:IsValid=true, Min=(X=-14445.247 Y=-14390.621 Z=-23022.090), Max=(X=14612.271 Y=13711.898 Z=17958.089) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:832C22764419701BB5321DA57850ACA0 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:B50853F14E7B4788EC86098F8AD48E2F BaseClass:/Game/ShootingGame/Blueprints/BP_MainCamera.BP_MainCamera_C NativeClass:/Script/Engine.Actor Name:BP_MainCamera_C_UAID_9C6B008141416C4402_1270276317 Label:BP_MainCamera SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=500.000 Y=-1000.000 Z=0.000), Max=(X=2500.000 Y=1000.000 Z=6000.000) RuntimeBounds:IsValid=true, Min=(X=1500.000 Y=0.000 Z=0.000), Max=(X=1500.000 Y=0.000 Z=5000.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:BE48EE7C4A7CB787CE97D6ABBD3EF220 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_9C6B00814141614402_1821378375 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-14445.247 Y=-14390.621 Z=-23022.090), Max=(X=14612.271 Y=13711.898 Z=17958.089)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ShootingGame/Maps/Untitled
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 3 
+ |- Actor Path: /Game/ShootingGame/Maps/Untitled.Untitled:PersistentLevel.DirectionalLight_UAID_9C6B00814141614402_1821378375
+ |- Actor Package: /Game/__ExternalActors__/ShootingGame/Maps/Untitled/C/FA/27ZU7S4SZIA7XG3IUBQ55V
+ |- Actor Path: /Game/ShootingGame/Maps/Untitled.Untitled:PersistentLevel.PlayerStart_UAID_9C6B00814141624402_1580257553
+ |- Actor Package: /Game/__ExternalActors__/ShootingGame/Maps/Untitled/5/KM/7ZMMG7CSL3BR6URZ7WEF3H
+ |- Actor Path: /Game/ShootingGame/Maps/Untitled.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ShootingGame/Maps/Untitled/0/QU/3B906WZBVI3AX79DDDZT0K
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Untitled_MainPartition_L0_X0_Y0 (6LWYKSBB4N774ITL9Q4GQT7FD)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1500.000 Y=0.000 Z=0.000), Max=(X=1500.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/ShootingGame/Maps/Untitled.Untitled:PersistentLevel.BP_MainCamera_C_UAID_9C6B008141416C4402_1270276317
+ |   |-         Package: /Game/__ExternalActors__/ShootingGame/Maps/Untitled/8/9W/Q2BNA5X7E5VJW8R47T0WT9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B50853F14E7B4788EC86098F8AD48E2F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Untitled_MainPartition_L2_X0_Y-1 (EBKIDLTNELNUNWFQLLHMEQOOS)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-14390.621 Z=-0.000), Max=(X=14612.271 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-51200.000 Z=0.000), Max=(X=51200.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/ShootingGame/Maps/Untitled.Untitled:PersistentLevel.BP_Background_C_UAID_9C6B008141416C4402_1264245316
+ |   |-         Package: /Game/__ExternalActors__/ShootingGame/Maps/Untitled/C/UT/G660RAXDTODEU5N3V2UDUH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 78D15A724351369CD26EA498BC26A270
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
