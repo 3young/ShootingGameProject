@@ -1,2 +1,3 @@
-2025/01/22-08:45:39.325 42f8 Creating DB D:/seyoung/AtentsBlueprint/ShootingGame/ShootingGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/01/22-08:45:39.338 42f8 Reusing MANIFEST D:/seyoung/AtentsBlueprint/ShootingGame/ShootingGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/23-14:27:38.072 4118 Reusing MANIFEST D:/seyoung/AtentsBlueprint/ShootingGame/ShootingGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/23-14:27:38.073 4118 Recovering log #3
+2025/01/23-14:27:38.073 4118 Reusing old log D:/seyoung/AtentsBlueprint/ShootingGame/ShootingGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
